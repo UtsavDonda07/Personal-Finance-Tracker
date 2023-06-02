@@ -1,0 +1,24 @@
+.container {
+  width: 100%;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: rgb(171, 176, 172);
+}
+#addButton {
+  margin-left: 90%;
+
+  border: none;
+  border-radius: 5px;
+  background-color: rgb(0, 105, 243);
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+
+  shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+.title{
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 20px;
+}
